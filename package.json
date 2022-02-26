@@ -1,0 +1,23 @@
+{
+  "name": "hello-rails-react-app",
+  "version": "1.0.0",
+  "description": "![Microverse](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cathella/hello-rails-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cathella/hello-rails-react-app/issues"
+  },
+  "homepage": "https://github.com/Cathella/hello-rails-react-app#readme"
+}
