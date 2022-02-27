@@ -1,5 +1,5 @@
 {
-  "name": "hello-rails-react-app",
+  "name": "hello-world-react-rails",
   "private": true,
   "dependencies": {
     "@babel/preset-react": "^7.16.5",
