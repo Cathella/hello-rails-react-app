@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-git_source(:github) { |repo| 'https://github.com/#{repo}.git' }
 
 ruby '3.0.3'
 
@@ -71,5 +70,5 @@ group :test do
   gem 'webdrivers'
 end
 
-gem 'webpacker'
 gem 'react-rails'
+gem 'webpacker'
