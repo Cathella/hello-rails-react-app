@@ -4,6 +4,7 @@ import LoadingBar from "react-redux-loading-bar";
 import Greeting from "./Greeting";
 import store from "../redux/configureStore";
 import { Provider } from "react-redux";
+import './App.css';
 
 const App = () => (
 <Provider store={store}>
